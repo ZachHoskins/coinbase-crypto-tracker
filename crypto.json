@@ -1,0 +1,248 @@
+[
+  {
+    "ticker": "BTC",
+    "usdPair": "BTC-USD",
+    "enabled": true,
+    "name": "Bitcoin"
+  },
+  {
+    "ticker": "ETH",
+    "usdPair": "ETH-USD",
+    "enabled": true,
+    "name": "Ethereum"
+  },
+  {
+    "ticker": "LTC",
+    "usdPair": "LTC-USD",
+    "enabled": true,
+    "name": "Litecoin"
+  },
+  {
+    "ticker": "LINK",
+    "usdPair": "LINK-USD",
+    "enabled": false,
+    "name": "Chainlink"
+  },
+  {
+    "ticker": "XLM",
+    "usdPair": "XLM-USD",
+    "enabled": false,
+    "name": "Stellar Lumens"
+  },
+  {
+    "ticker": "BCH",
+    "usdPair": "BCH-USD",
+    "enabled": false,
+    "name": "Bitcoin Cash"
+  },
+  {
+    "ticker": "UNI",
+    "usdPair": "UNI-USD",
+    "enabled": false,
+    "name": "Uniswap"
+  },
+  {
+    "ticker": "WBTC",
+    "usdPair": "WBTC-USD",
+    "enabled": false,
+    "name": "Wrapped Bitcoin"
+  },
+  {
+    "ticker": "AAVE",
+    "usdPair": "AAVE-USD",
+    "enabled": false,
+    "name": "Aave"
+  },
+  {
+    "ticker": "ATOM",
+    "usdPair": "ATOM-USD",
+    "enabled": false,
+    "name": "Cosmos"
+  },
+  {
+    "ticker": "EOS",
+    "usdPair": "EOS-USD",
+    "enabled": false,
+    "name": "EOS"
+  },
+  {
+    "ticker": "XTZ",
+    "usdPair": "XTZ-USD",
+    "enabled": false,
+    "name": "Tezos"
+  },
+  {
+    "ticker": "DAI",
+    "usdPair": "DAI-USD",
+    "enabled": false,
+    "name": "Dai"
+  },
+  {
+    "ticker": "ALGO",
+    "usdPair": "ALGO-USD",
+    "enabled": false,
+    "name": "Algorand"
+  },
+  {
+    "ticker": "FIL",
+    "usdPair": "FIL-USD",
+    "enabled": false,
+    "name": "Filecoin"
+  },
+  {
+    "ticker": "SNX",
+    "usdPair": "SNX-USD",
+    "enabled": false,
+    "name": "Synthetix Network Token"
+  },
+  {
+    "ticker": "MKR",
+    "usdPair": "MKR-USD",
+    "enabled": false,
+    "name": "Maker"
+  },
+  {
+    "ticker": "DASH",
+    "usdPair": "DASH-USD",
+    "enabled": false,
+    "name": "Dash"
+  },
+  {
+    "ticker": "GRT",
+    "usdPair": "GRT-USD",
+    "enabled": false,
+    "name": "The Graph"
+  },
+  {
+    "ticker": "COMP",
+    "usdPair": "COMP-USD",
+    "enabled": false,
+    "name": "Compound"
+  },
+  {
+    "ticker": "ZEC",
+    "usdPair": "ZEC-USD",
+    "enabled": false,
+    "name": "Zcash"
+  },
+  {
+    "ticker": "ETC",
+    "usdPair": "ETC-USD",
+    "enabled": false,
+    "name": "Ethereum Classic"
+  },
+  {
+    "ticker": "YFI",
+    "usdPair": "YFI-USD",
+    "enabled": false,
+    "name": "yearn.finance"
+  },
+  {
+    "ticker": "UMA",
+    "usdPair": "UMA-USD",
+    "enabled": false,
+    "name": "UMA"
+  },
+  {
+    "ticker": "REN",
+    "usdPair": "REN-USD",
+    "enabled": false,
+    "name": "Ren"
+  },
+  {
+    "ticker": "ZRX",
+    "usdPair": "ZRX-USD",
+    "enabled": false,
+    "name": "0x"
+  },
+  {
+    "ticker": "BAT",
+    "usdPair": "BAT-USDC",
+    "enabled": false,
+    "name": "Basic Attention Token"
+  },
+  {
+    "ticker": "CGLD",
+    "usdPair": "CGLD-USD",
+    "enabled": false,
+    "name": "Celo"
+  },
+  {
+    "ticker": "BNT",
+    "usdPair": "BNT-USD",
+    "enabled": false,
+    "name": "Bancor Network Token"
+  },
+  {
+    "ticker": "LRC",
+    "usdPair": "LRC-USD",
+    "enabled": false,
+    "name": "Loopring"
+  },
+  {
+    "ticker": "OMG",
+    "usdPair": "OMG-USD",
+    "enabled": false,
+    "name": "OMG Network"
+  },
+  {
+    "ticker": "MANA",
+    "usdPair": "MANA-USDC",
+    "enabled": false,
+    "name": "Decentraland"
+  },
+  {
+    "ticker": "KNC",
+    "usdPair": "KNC-USD",
+    "enabled": false,
+    "name": "Kyber Network"
+  },
+  {
+    "ticker": "REP",
+    "usdPair": "REP-USD",
+    "enabled": false,
+    "name": "Augur"
+  },
+  {
+    "ticker": "NU",
+    "usdPair": "NU-USD",
+    "enabled": false,
+    "name": "NuCypher"
+  },
+  {
+    "ticker": "BAND",
+    "usdPair": "BAND-USD",
+    "enabled": false,
+    "name": "Band Protocol"
+  },
+  {
+    "ticker": "BAL",
+    "usdPair": "BAL-USD",
+    "enabled": false,
+    "name": "Balancer"
+  },
+  {
+    "ticker": "CVC",
+    "usdPair": "CVC-USDC",
+    "enabled": false,
+    "name": "Civic"
+  },
+  {
+    "ticker": "NMR",
+    "usdPair": "NMR-USD",
+    "enabled": false,
+    "name": "Numeraire"
+  },
+  {
+    "ticker": "OXT",
+    "usdPair": "OXT-USD",
+    "enabled": false,
+    "name": "Orchid"
+  },
+  {
+    "ticker": "DNT",
+    "usdPair": "DNT-USDC",
+    "enabled": false,
+    "name": "district0x"
+  }
+]
